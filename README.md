@@ -5,5 +5,6 @@ The project itself is on the compressed file.
 The main code (that describes everything that happens on the game) is on "freertos.c" file.
 
 This is an example of the game running:
-![Banner](./Imagen de WhatsApp 2025-09-01 a las 15.40.07_99cace25.jpg)
-
+<p align="center">
+  <img src="./Imagen de WhatsApp 2025-09-01 a las 15.40.07_99cace25.jpg" alt="Arcade Game Demo" width="400"/>
+</p>
