@@ -5,5 +5,6 @@ The project itself is on the compressed file.
 The main code (that describes everything that happens on the game) is on "freertos.c" file.
 
 This is an example of the game running:
-![My profile picture](./assets/profile.png)
+![My profile picture](stm32f429i-disc1-arcade-game
+/Imagen de WhatsApp 2025-09-01 a las 15.40.06_6533c910.jpg)
 
