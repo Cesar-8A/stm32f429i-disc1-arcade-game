@@ -1,0 +1,9 @@
+st_emwin_freertos\guiconf.o: ../STemWin/Target/GUIConf.c
+st_emwin_freertos\guiconf.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/ST/STemWin/inc/GUI.h
+st_emwin_freertos\guiconf.o: D:\PersonalPrograms\Keil_v5\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+st_emwin_freertos\guiconf.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/ST/STemWin/inc/GUI_ConfDefaults.h
+st_emwin_freertos\guiconf.o: ../STemWin/Target/GUIConf.h
+st_emwin_freertos\guiconf.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/ST/STemWin/inc/GUI_Type.h
+st_emwin_freertos\guiconf.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/ST/STemWin/inc/LCD.h
+st_emwin_freertos\guiconf.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/ST/STemWin/inc/Global.h
+st_emwin_freertos\guiconf.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/ST/STemWin/inc/GUI_Version.h

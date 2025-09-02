@@ -1,0 +1,1 @@
+st_emwin_freertos\startup_stm32f429xx.o: startup_stm32f429xx.s

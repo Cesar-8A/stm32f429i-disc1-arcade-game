@@ -1,0 +1,16 @@
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+st_emwin_freertos\tasks.o: D:\PersonalPrograms\Keil_v5\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+st_emwin_freertos\tasks.o: D:\PersonalPrograms\Keil_v5\Keil\ARM\ARMCC\Bin\..\include\string.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+st_emwin_freertos\tasks.o: D:\PersonalPrograms\Keil_v5\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+st_emwin_freertos\tasks.o: D:\PersonalPrograms\Keil_v5\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+st_emwin_freertos\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+st_emwin_freertos\tasks.o: C:/Users/Alber/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
